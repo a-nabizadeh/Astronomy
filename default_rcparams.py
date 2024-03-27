@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 # Set the default configuration parameters
 plt.rcParams['figure.figsize'] = (8, 6)
 plt.rcParams['lines.linewidth'] = 2.5
-plt.rcParams['font.size'] = 18
+plt.rcParams['font.size'] = 16
 plt.rcParams['axes.grid'] = False
 plt.rcParams['xtick.direction'] = 'in'
 plt.rcParams['ytick.direction'] = 'in'
